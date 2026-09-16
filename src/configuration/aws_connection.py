@@ -18,7 +18,7 @@ class S3Client:
         and raise exception when environment variable is not set
         """
 
-        if S3Client.s3_resource == None or S3Client.s3_client == None:
+        if S3Client.s3_resource is None or S3Client.s3_client is None:
             __access_key_id = os.getenv(
                 AWS_ACCESS_KEY_ID_ENV_KEY,
             )
