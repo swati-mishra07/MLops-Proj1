@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 180" role="img" aria-labelledby="title desc">
+  <title id="title">Vehicle Insurance MLOps</title>
+  <desc id="desc">A car and data pipeline logo</desc>
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#2563eb"/>
+      <stop offset="1" stop-color="#06b6d4"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="180" rx="28" fill="#0f172a"/>
+  <path d="M50 112h16l13-36c3-8 10-13 19-13h44c9 0 16 5 19 13l13 36h16c6 0 10 4 10 10v10c0 6-4 10-10 10h-9a17 17 0 0 1-34 0H82a17 17 0 0 1-34 0h-8c-6 0-10-4-10-10v-10c0-6 4-10 10-10h10Zm37 14a9 9 0 1 0 0 18 9 9 0 0 0 0-18Zm63 0a9 9 0 1 0 0 18 9 9 0 0 0 0-18ZM85 104h67l-9-24c-1-3-4-5-8-5h-32c-4 0-7 2-8 5l-10 24Z" fill="url(#g)"/>
+  <path d="M204 67h31v12h-31zm0 26h54v12h-54zm0 26h41v12h-41z" fill="#67e8f9"/>
+  <text x="285" y="92" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="700">Vehicle Insurance</text>
+  <text x="285" y="126" fill="#67e8f9" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="600" letter-spacing="3">MLOPS PIPELINE</text>
+</svg>
